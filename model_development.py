@@ -1,7 +1,6 @@
 #Import Dependencies
 import pandas as pd
 import numpy as np
-import seaborn as sns
 import sklearn
 from datetime import datetime
 import pickle
