@@ -6,6 +6,8 @@ filename = 'first-innings-score-model.pkl'
 regressor = pickle.load(open(filename, 'rb'))
 
 app = Flask(__name__)
+app.secret_key = b'_5#y2L"F4Q8z\n\xec]/'
+
 
 @app.route('/')
 def home():
@@ -35,6 +37,10 @@ def predict():
 			temp_array = temp_array + [0,0,0,0,0,0,0,1]
 		
 		bowling_team = request.form['bowling-team']
+
+		if batting_team == bowling_team:
+			flash("Same Team Not allowed")
+			return redirect('/')
 
 		if bowling_team == 'Chennai Super Kings':
 			temp_array = temp_array + [1,0,0,0,0,0,0,0]
