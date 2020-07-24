@@ -13,7 +13,7 @@ app.secret_key = b'_5#y2L"F4Q8z\n\xec]/'
 def home():
 	return render_template('index.html')
 
-@app.route('/predict', methods=['POST'])
+@app.route('/predict', methods=['POST','GET'])
 def predict():
 	if request.method == 'POST':
 		temp_array = list()
