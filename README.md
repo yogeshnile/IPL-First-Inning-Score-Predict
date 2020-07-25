@@ -1,4 +1,19 @@
-## IPL first inning score prediction :notebook:
+## IPL First Inning Score Prediction :notebook:
+
+ - [[Jupyter Notebook]](https://github.com/yogeshnile/IPL-first-inning-score-prediction)
+ - [[Demo]](https://ipl-inning-score-prediction.herokuapp.com/)
+
+[![](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://python.org)
+
+# How to run the project? :thinking:
+  - Clone github repository in your local system  ```git clone https://github.com/yogeshnile/IPL-First-Inning-Score-Predict.git```
+  - Move in spam-sms-detector repository  ```cd IPL-First-Inning-Score-Predict```
+  - Create new virtual python environment  ```python3 -m venv venv```
+  - Activate virtual python environment  ```source venv/bin/activate```
+  - Install all the libraries mentioned in [requirements.txt](https://github.com/yogeshnile/IPL-First-Inning-Score-Predict/blob/master/requirements.txt)  using  ```pip install -r requirements.txt```
+  - Run FlaskApp file  ```python app.py```
+  - Go to your browser and type http://127.0.0.1:5000/ in the address bar.
+  - Hurray! That's it.
 
 
 ## Bug / Feature Request :man_technologist:
