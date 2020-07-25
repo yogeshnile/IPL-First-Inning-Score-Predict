@@ -9,7 +9,7 @@ app = Flask(__name__)
 app.secret_key = b'_5#y2L"F4Q8z\n\xec]/'
 
 
-@app.route('/', methods=['GET'])
+@app.route('/', methods=['GET','POST'])
 def home():
 	return render_template('index.html')
 
@@ -72,4 +72,5 @@ def predict():
 
 		return render_template('result.html', lower_limit = my_prediction-10, upper_limit = my_prediction+10)
 
-app.run(debug=True)
+if __name__ == '__main__':
+	app.run(debug=True)
