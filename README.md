@@ -6,9 +6,12 @@ In this repo I have developed a IPL First Innings Score Prediction project in ma
 
 [![](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://python.org)
 
+# Motivation :monocle_face:
+ - IPL is very popular in India. The match of ipl has 20-20 overs, if we can estimate the score of first inning, that's why I have made this project. Although it is difficult to predict what will happen in cricket, but this project would give us an estimate based on past match. I hope would be you like it.
+
 # How to run the project? :thinking:
   - Clone github repository in your local system  ```git clone https://github.com/yogeshnile/IPL-First-Inning-Score-Predict.git```
-  - Move in spam-sms-detector repository  ```cd IPL-First-Inning-Score-Predict```
+  - Move in IPL-First-Inning-Score-Predict repository  ```cd IPL-First-Inning-Score-Predict```
   - Create new virtual python environment  ```python3 -m venv venv```
   - Activate virtual python environment  ```source venv/bin/activate```
   - Install all the libraries mentioned in [requirements.txt](https://github.com/yogeshnile/IPL-First-Inning-Score-Predict/blob/master/requirements.txt)  using  ```pip install -r requirements.txt```
