@@ -56,6 +56,9 @@ In this repo I have developed a IPL First Innings Score Prediction project in ma
 <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Heroku.png" width="200">  <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">     <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/sklearn.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Flask.png" width="300">
 
 
+## ScreenShot :camera_flash:
+![](https://github.com/yogeshnile/IPL-First-Inning-Score-Predict/blob/master/Images/1.png)    ![](https://github.com/yogeshnile/IPL-First-Inning-Score-Predict/blob/master/Images/2.png)    ![](https://github.com/yogeshnile/IPL-First-Inning-Score-Predict/blob/master/Images/3.png)
+
 ## Bug / Feature Request :man_technologist:
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/IPL-First-Inning-Score-Predict/issues/new) by including your search query and the expected result.
 
