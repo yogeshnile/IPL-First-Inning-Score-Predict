@@ -15,9 +15,46 @@ In this repo I have developed a IPL First Innings Score Prediction project in ma
   - Run FlaskApp file  ```python app.py```
   - Go to your browser and type http://127.0.0.1:5000/ in the address bar.
   - Hurray! That's it.
+  
+# Directory Tree :cactus:  
+```bash
+.
+├── app.py
+├── first-innings-score-model.pkl
+├── Images
+│   ├── 1.png
+│   ├── 2.png
+│   └── 3.png
+├── ipl.csv
+├── LICENSE
+├── model_development.py
+├── Procfile
+├── README.md
+├── requirements.txt
+├── static
+│   ├── icon
+│   │   └── ipl-favicon.ico
+│   ├── images
+│   │   ├── csk.png
+│   │   ├── dc.png
+│   │   ├── kkr.jpg
+│   │   ├── kxip.png
+│   │   ├── mi.jpg
+│   │   ├── rcb.png
+│   │   ├── rr.png
+│   │   └── srh.png
+│   └── style.css
+└── templates
+    ├── index.html
+    ├── layout.html
+    └── result.html
+
+5 directories, 24 files
+```
 
 # Technology used in Project :hotsprings:
 <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Heroku.png" width="200">  <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">     <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/sklearn.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Flask.png" width="300">
+
 
 ## Bug / Feature Request :man_technologist:
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/IPL-First-Inning-Score-Predict/issues/new) by including your search query and the expected result.
