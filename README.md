@@ -1,4 +1,4 @@
-## IPL First Inning Score Prediction :notebook:
+## IPL First Inning Score Prediction :notebook: &nbsp;[![](https://camo.githubusercontent.com/17fa56d1fbad7bb4082c9711a77b984b85e79446/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d332e362d627269676874677265656e2e737667)](https://python.org)
 In this repo I have developed a IPL First Innings Score Prediction project in machine learning. And deployed on Heroku app. 
 
  - [[Jupyter Notebook]](https://github.com/yogeshnile/IPL-first-inning-score-prediction)
