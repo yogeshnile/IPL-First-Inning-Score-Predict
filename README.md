@@ -10,6 +10,7 @@ In this repo I have developed a IPL First Innings Score Prediction project in ma
  - IPL is very popular in India. The match of ipl has 20-20 overs, if we can estimate the score of first inning, that's why I have made this project. Although it is difficult to predict what will happen in cricket, but this project would give us an estimate based on past match. I hope would be you like it.
 
 # How to run the project? :thinking:
+**1).** Run all command manually
   - Clone github repository in your local system  ```git clone https://github.com/yogeshnile/IPL-First-Inning-Score-Predict.git```
   - Move in IPL-First-Inning-Score-Predict repository  ```cd IPL-First-Inning-Score-Predict```
   - Create new virtual python environment  ```python3 -m venv venv```
@@ -18,6 +19,14 @@ In this repo I have developed a IPL First Innings Score Prediction project in ma
   - Run FlaskApp file  ```python app.py```
   - Go to your browser and type http://127.0.0.1:5000/ in the address bar.
   - Hurray! That's it.
+
+
+**2).** Run Shell Script
+  - Clone github repository in your local system  `git clone https://github.com/yogeshnile/unix.git`
+  - Give execute permission to [ipl-first-inning-score-predict.sh](https://github.com/yogeshnile/unix/blob/master/ipl-first-inning-score-predict.sh) file via  `chmod +x ipl-first-inning-score-predict.sh`
+  - Run ipl-first-inning-score-predict.sh file using `./ipl-first-inning-score-predict.sh`
+  - Go to your browser and type http://127.0.0.1:5000/ in the address bar.
+  - Finished...
   
 # Directory Tree :cactus:  
 ```bash
